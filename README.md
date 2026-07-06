@@ -16,15 +16,15 @@ Eine dynamische, agentenbasierte Lebenssimulation in Python. Die Bewohner haben 
 
 ## Installation & Start
 
-1. Klone dieses Repository auf deinen Rechner.
-2. Installiere die benötigten Abhängigkeiten (am besten in einem virtuellen Environment):
+1. Klone dieses Repository.
+2. Installiere die benötigten Abhängigkeiten:
+
    ```bash
    pip install opencv-python Pillow numpy
     ```
     ```bash
     python main.py
     ```
-
 ---
 
 ## Credits
